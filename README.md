@@ -28,7 +28,7 @@ Um jogo do super mario feito em HTML, CSS e JS!<br> Esse é um projeto complemen
 Clone o repositório em sua máquina.
 
 ```bash
-  git clone https://github.com/ThompsonMss/mario-jump-js.git
+  git clone https://github.com/ThompsonMss/gamedev-super-mario-jump-js.git
 ```
 
 Acesse a pasta do projeto.
